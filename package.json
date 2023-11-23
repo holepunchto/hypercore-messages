@@ -1,0 +1,26 @@
+{
+  "name": "hypercore-messages",
+  "version": "0.0.0",
+  "description": "The binary messages that Hypercore uses",
+  "main": "index.js",
+  "dependencies": {
+    "b4a": "^1.6.4",
+    "compact-encoding": "^2.13.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holepunchto/hypercore-messages.git"
+  },
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/hypercore-messages/issues"
+  },
+  "homepage": "https://github.com/holepunchto/hypercore-messages"
+}
