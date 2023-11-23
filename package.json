@@ -1,6 +1,6 @@
 {
   "name": "hypercore-messages",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The binary messages that Hypercore uses",
   "main": "index.js",
   "dependencies": {
